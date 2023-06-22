@@ -4,19 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikan45&label=Profile%20views&color=0e75b6&style=flat" alt="saikan45" /> </p>
 
-- 🔭 I’m currently working at [Dhaka International University as a Lecturer.](https://diu.ac/)
+- 🔭 I’m currently working at **Dhaka International University as a Lecturer.**
 
 <img align="right" alt="coding" width=" 400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/sumanmia](https://sites.google.com/view/sumanmia)
-
-- 📝 I regularly write articles on [https://khulnatuitionmedia.blogspot.com/](https://khulnatuitionmedia.blogspot.com/)
 
 - 💬 Ask me about **C,C++ and Java**
-
-- 📫 How to reach me **sumanmia.cse@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive?fbclid=IwAR2wykrGvn7uISMUrbMl9umj7BhLiY1btQe0nRSR0Tysv3vf2MAj9mZKePE](https://drive.google.com/drive/my-drive?fbclid=IwAR2wykrGvn7uISMUrbMl9umj7BhLiY1btQe0nRSR0Tysv3vf2MAj9mZKePE)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
