@@ -1,4 +1,4 @@
-![logo](https://github.com/saikan45/saikan45/blob/main/Banner.png)
+![logo](https://github.com/saikan45/saikan45/blob/main/Banner2.png)
 <h1 align="center">Hi 👋, I'm Suman Ahmed Saikan</h1>
 <h3 align="center">A Passionate Engineer and Teacher From Bangladesh</h3>
 
